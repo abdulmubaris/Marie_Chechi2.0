@@ -30,7 +30,7 @@ PM_START_TEXT = """
 
 HELP_STRINGS = """
 I Told you No one gonna help you 🤣🤣
-"" "
+"""
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
