@@ -21,13 +21,6 @@ PM_START_TEXT = """
 😂😂 Ha ha.. No one gonna help you
 """
 
-
-
-
-
-
-
-
 HELP_STRINGS = """
 I Told you No one gonna help you 🤣🤣
 """
